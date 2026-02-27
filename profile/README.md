@@ -74,19 +74,19 @@
   </tr>
   <tr>
     <td align="center">
-      <b>BE</b>
+      <b>🔧 팀원 / BE</b>
     </td>
     <td align="center">
-      <b>FE</b>
+      <b>🎨 팀원 / FE</b>
     </td>
     <td align="center">
-      <b>FE</b>
+      <b>🎨 팀원 / FE</b>
     </td>
     <td align="center">
-      <b>FE/팀장</b>
+      <b>🎨 팀장 / FE</b>
     </td>
     <td align="center">
-      <b>BE</b>
+      <b>🔧 부팀장 / BE</b>
     </td>
   </tr>
 </table>
